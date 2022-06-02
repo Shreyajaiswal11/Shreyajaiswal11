@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
   </a>
 </h1>
-<h1 align="center">Hey, I'm Shreya Jaiswal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<!-- <h1 align="center">Hey, I'm Shreya Jaiswal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>  -->
+ <h1 align="center">Hey, I'm Shreya Jaiswal 👋</h1>
 
 ### Glad to see you here! 🤩 &nbsp;
 I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Techno India University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I'm currently working on my Data Structures and Algorithms 🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Read. 
